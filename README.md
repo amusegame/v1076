@@ -1,11 +1,14 @@
 Game Server for Windows(1076)
 ===============
-Current latest version: [230717621](https://github.com/amusegame/v1076/releases/download/230717621/v1076-230717621.github.7z)
+Current latest version: [231117645](https://github.com/amusegame/v1076/releases/download/231117645/v1076-231117645.github.7z)
 
-Release Date: 2023-07-17
+Release Date: 2023-11-17
 
 Release Notes
 -----------------------------------
+231117645
+	1. Fixed some problem; 
+
 230717621
 	1. Fixed some problem; 
 
